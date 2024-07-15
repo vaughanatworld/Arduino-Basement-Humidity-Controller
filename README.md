@@ -1,4 +1,4 @@
-ArduinoBasementHumididtyController
+ArduinoBasementHumidityController
 ==================================
 
 Arduino baseement humidity controller. 
